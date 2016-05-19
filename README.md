@@ -1,4 +1,4 @@
-# MIGS payment gateway MVC5
+# MIGS payment gateway for MVC5
 
 An example of Mastercards MIGS payemnt gateway using Asp.Net MVC5.
 
@@ -78,7 +78,7 @@ card number = 5123456789012346
 
 expiry date = 0517 (MMYY)
 
-purchase amount= $1.00
+purchase amount = $1.00
 
 
 **And to test an insufficient funds Mastercard response you would enter details as below:**
@@ -87,7 +87,7 @@ card number = 5123456789012346
 
 expiry date = 0517 (MMYY)
 
-purchase amount= $1.51
+purchase amount = $1.51
 
 ### Credits:
 
