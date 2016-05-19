@@ -2,7 +2,7 @@
 
 An example of Mastercards MIGS payemnt gateway using Asp.Net MVC5.
 
-## Changed Files:
+## Important Files:
 
 Controllers\PaymentController.cs
 
