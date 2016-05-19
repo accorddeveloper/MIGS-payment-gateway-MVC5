@@ -4,6 +4,8 @@ An example of Mastercards MIGS payment gateway using Asp.Net MVC5.
 
 Screenshots: https://github.com/mwd-au/MIGS-payment-gateway-MVC5/wiki/Screenshots
 
+MIGS Dev kit available from your bank or here: http://www.anz.com/australia/business/merchant/DownloadDevKit.asp
+
 ## Important Files:
 
 Controllers\PaymentController.cs
