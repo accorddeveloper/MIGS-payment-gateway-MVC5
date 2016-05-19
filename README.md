@@ -1,4 +1,4 @@
-# MIGS payment gateway for MVC5
+# MIGS payment gateway for Asp.Net MVC5
 
 An example of Mastercards MIGS payemnt gateway using Asp.Net MVC5.
 
