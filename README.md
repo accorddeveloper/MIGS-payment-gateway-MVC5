@@ -41,7 +41,7 @@ Test merchant id example: TESTBBL1234567
 
 You can do transactions against MIGS in test mode using the following test card numbers.
 
-** Mastercard **
+**Mastercard**
 
 card number = 5123456789012346
 
@@ -50,7 +50,7 @@ expiry date = 0517 (MMYY)
 csc/cvv = 100
 
 
-** Visa **
+**Visa**
 
 card number = 4987654321098769
 
@@ -59,7 +59,7 @@ expiry date = 0517 (MMYY)
 csc/cvv = 100
 
 
-** To return the appropriately mapped response you must append each purchase amount with a cents amount that correlates as below. The dollar amount is not relevant. **
+**To return the appropriately mapped response you must append each purchase amount with a cents amount that correlates as below. The dollar amount is not relevant.**
 
 .00 - Approved (Response Code 0)
 
@@ -72,22 +72,22 @@ csc/cvv = 100
 .91 - Error communicating with Bank (Response Code 6)
 
 
-** So to test an approved Mastercard you would enter details as below: **
+**So to test an approved Mastercard you would enter details as below:**
 
 card number = 5123456789012346
 
 expiry date = 0517 (MMYY)
 
-purchase amount=$1.00
+purchase amount= $1.00
 
 
-** And to test an insufficient funds Mastercard response you would enter details as below: **
+**And to test an insufficient funds Mastercard response you would enter details as below:**
 
 card number = 5123456789012346
 
 expiry date = 0517 (MMYY)
 
-purchase amount=$1.51
+purchase amount= $1.51
 
 ### Credits:
 
